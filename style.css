@@ -1,0 +1,8 @@
+.dia {
+    align-items: center;
+    display: inline-block;
+    background-color: brown;
+    border-radius: 5px;
+    color: wheat;
+    text-align: center;
+}
